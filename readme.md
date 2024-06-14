@@ -11,4 +11,4 @@ Blog: https://dflb.org/d2darp-a-decentralised-system-to-keep-device-device-conne
 ## D2DARP In Action (Screenshot)
 As shown in the image below, the proof-of-concept demonstrates that "Client2" (identifier: 452f24f61652351a75d22574c1f14aa8), highlighted in red, was denied access to the new IP address of the DDevice. Meanwhile, "Client1" (identifier: 8d781da7812048f70b1ed40e9aabd33d), highlighted in blue, was allowed to access the DDevice's new IP address, 10.0.0.1.
 
-![](https://github.com/DataFoundationLab/D2DARP/blob/main/D2DARP_Simulation.png)
+![](https://github.com/Data-Foundation-Lab/D2DARP/blob/main/D2DARP_Simulation.png)
